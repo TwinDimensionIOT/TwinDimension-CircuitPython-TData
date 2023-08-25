@@ -1,4 +1,4 @@
-Adafruit_CircuitPython_AdafruitIO
+TwinDimension-CircuitPython-TData
 =================================
 
 .. image:: https://readthedocs.org/projects/adafruit-circuitpython-adafruitio/badge/?version=latest
@@ -17,8 +17,14 @@ Adafruit_CircuitPython_AdafruitIO
     :target: https://github.com/psf/black
     :alt: Code Style: Black
 
-CircuitPython wrapper library for communicating with `Adafruit IO <http://io.adafruit.com>`_.
+CircuitPython wrapper library for communicating with `T.Data <https://tdata.tesacom.net/>`_.
 
+ToDo
+============
+* general cleanup (project divergence)
+* update test cases
+* update docs
+* ...
 
 Dependencies
 ============
@@ -59,20 +65,20 @@ To install in a virtual environment in your current project:
 Usage Example
 =============
 
-Usage examples for the Adafruit IO HTTP API are within the examples/http folder.
+Usage examples for the T.Data HTTP API are within the examples/http folder.
 
-Usage examples for the Adafruit IO MQTT API are within the examples/mqtt folder.
+Usage examples for the T.Data MQTT API are within the examples/mqtt folder.
 
 Documentation
 =============
 
-API documentation for this library can be found on `Read the Docs <https://docs.circuitpython.org/projects/adafruitio/en/latest/>`_.
+API documentation for this library can be found on `Read the Docs <https://>`_.
 
-For information on building library documentation, please check out `this guide <https://learn.adafruit.com/creating-and-sharing-a-circuitpython-library/sharing-our-docs-on-readthedocs#sphinx-5-1>`_.
+For information on building library documentation, please check out `this guide <https://>`_.
 
 Contributing
 ============
 
 Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO/blob/main/CODE_OF_CONDUCT.md>`_
+<https://github.com/TwinDimensionIOT/TwinDimension-CircuitPython-TData/blob/main/CODE_OF_CONDUCT.md>`_
 before contributing to help this project stay welcoming.
