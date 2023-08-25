@@ -1,10 +1,10 @@
 TwinDimension-CircuitPython-TData
 =================================
 
-.. image:: https://img.shields.io/discord/:1016500444379496478
+.. image:: https://img.shields.io/discord/1016500444379496478
     :alt: Discord
 
-.. image:: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+.. image:: https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
     :target: https://www.linkedin.com/company/twindimension
     :alt: LinkedIn
 
