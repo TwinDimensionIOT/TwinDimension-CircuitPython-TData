@@ -1,12 +1,7 @@
 TwinDimension-CircuitPython-TData
 =================================
 
-.. image:: https://readthedocs.org/projects/adafruit-circuitpython-adafruitio/badge/?version=latest
-    :target: https://docs.circuitpython.org/projects/adafruitio/en/latest/
-    :alt: Documentation Status
-
-.. image:: 	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-    :target: https://discord.com/channels/1016500444379496478
+.. image:: https://img.shields.io/discord/:1016500444379496478
     :alt: Discord
 
 .. image:: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
