@@ -5,17 +5,17 @@ TwinDimension-CircuitPython-TData
     :target: https://docs.circuitpython.org/projects/adafruitio/en/latest/
     :alt: Documentation Status
 
-.. image:: https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/badges/adafruit_discord.svg
-    :target: https://adafru.it/discord
+.. image:: 	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+    :target: https://discord.com/channels/1016500444379496478
     :alt: Discord
 
-.. image:: https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO/workflows/Build%20CI/badge.svg
-    :target: https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO/actions/
-    :alt: Build Status
+.. image:: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+    :target: https://www.linkedin.com/company/twindimension
+    :alt: LinkedIn
 
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-    :target: https://github.com/psf/black
-    :alt: Code Style: Black
+.. image:: https://img.shields.io/badge/License-GPLv3-blue.svg
+    :target: https://www.gnu.org/licenses/mit
+    :alt: License
 
 CircuitPython wrapper library for communicating with `T.Data <https://tdata.tesacom.net/>`_.
 
