@@ -9,9 +9,9 @@ TwinDimension-CircuitPython-TData
     :target: https://www.linkedin.com/company/twindimension
     :alt: LinkedIn
 
-.. image:: https://img.shields.io/badge/License-GPLv3-blue.svg
-    :target: https://www.gnu.org/licenses/mit
-    :alt: License
+.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
+    :target: https://opensource.org/licenses/MIT
+    :alt: License: MIT
 
 CircuitPython wrapper library for communicating with `T.Data <https://tdata.tesacom.net/>`_.
 
