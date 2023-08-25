@@ -2,6 +2,7 @@ TwinDimension-CircuitPython-TData
 =================================
 
 .. image:: https://img.shields.io/discord/1016500444379496478
+    :target: https://discord.com/channels/1016500444379496478
     :alt: Discord
 
 .. image:: https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
